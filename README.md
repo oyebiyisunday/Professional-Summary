@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyebiyisunday
 - 👀 I’m interested in software development, Internet applications, and Database Management
 - 🌱 I’m currently learning (AI/ML)
-- 💞️ I’m looking to collaborate on AI/ML Projects
+- 💞️ I’m looking to collaborate on Cloud, Devops and AI/ML Projects
 - 📫 How to reach me oyebiyisunday@gmail.com
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Not just Tech, A problem solver!

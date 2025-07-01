@@ -24,7 +24,7 @@ I thrive at the intersection of cloud infrastructure, automation, and AI. Whethe
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/oyebiyisunday)
+- [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
 - [Personal Website](https://oyebiyisunday.com)
 
 > “Automation is to your code what oxygen is to your brain—essential and invisible.”

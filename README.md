@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunday Oyebiyi
 
-🚀 Cloud | DevOps | AI/ML Developer  
+🚀 Cloud Engineer | Full Stack Developer  
 Passionate about building scalable cloud solutions, automating workflows, and creating intelligent systems that make life easier.
 
 

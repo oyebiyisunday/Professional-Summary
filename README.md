@@ -13,16 +13,16 @@ Passionate about building scalable cloud solutions, automating workflows, and cr
 
 
 
-## 🌟 Featured Projects
+🌟 Featured Projects
 Available on my website
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I thrive at the intersection of cloud infrastructure, automation, and AI. Whether it’s deploying robust microservices or training deep learning models, I love solving real-world problems through code and collaboration.
 
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
 - [Personal Website](https://oyebiyisunday.com)

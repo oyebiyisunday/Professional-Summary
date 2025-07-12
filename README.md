@@ -1,7 +1,7 @@
 👋 Hi, I'm Sunday Oyebiyi
 
 Cloud DevOps Engineer | Full Stack Developer  
-Passionate about building scalable cloud solutions, automating workflows, and creating intelligent systems that make life easier.
+Passionate about building scalable cloud solutions, automating workflows, and creating intelligent systems that transform business.
 
 
 🛠️ Technologies & Tools

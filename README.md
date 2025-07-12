@@ -6,10 +6,7 @@ Passionate about building scalable cloud solutions, automating workflows, and cr
 
 🛠️ Technologies & Tools
 
-- Cloud: AWS | Azure | Google Cloud
-- DevOps: Docker | Kubernetes | Terraform | GitHub Actions | Jenkins
-- Programming: Python | Bash | JavaScript | Go
-- AI/ML: TensorFlow | PyTorch | scikit-learn | MLflow
+
 
 
 🌐 Connect with Me

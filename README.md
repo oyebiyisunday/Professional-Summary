@@ -12,10 +12,10 @@ Technical Skills
 - Serverless Architecture
 
 🛠️ DevOps & Automation
--  CI/CD Pipelines
+- CI/CD Pipelines
 - GitLab CI/CD & Jenkins
 - Infrastructure as Code
-- **Monitoring & Logging
+- Monitoring & Logging
 
 💻 Programming & Scripting
 - Python
@@ -23,7 +23,7 @@ Technical Skills
 - JavaScript/Node.js
 - SQL & Database Management
 
----
+
 
 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)

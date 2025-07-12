@@ -15,4 +15,4 @@ Passionate about building scalable cloud solutions, automating workflows, and cr
 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/sunday-oyebiyi/
-- Personal Website: https://github.com/oyebiyisunday/Portfolio_Website.git
+- Personal Website: https://oyebiyisunday.github.io/Portfolio_Website/

@@ -18,7 +18,7 @@ Technical Skills
 - Monitoring & Logging
 
 💻 Programming & Scripting
-- Python
+- Python & .NET
 - Bash/Shell Scripting
 - JavaScript/Node.js
 - SQL & Database Management

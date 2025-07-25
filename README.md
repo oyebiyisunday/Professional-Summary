@@ -28,4 +28,4 @@ Technical Skills
 
 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
-- [Personal Website](https://oyebiyisunday.github.io/Portfolio_Website/)
+- [Personal Website](https://oyebiyi.myloveboxes.com/)

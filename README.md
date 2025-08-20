@@ -1,30 +1,10 @@
-👋 Hi, I'm Sunday Oyebiyi
+Results-driven Cloud & Data Engineer (AWS-Certified) with 5+ years designing cloud-native platforms, high-throughput data pipelines, and AI-powered analytics across AWS and Azure. I turn complex, high-volume datasets into reliable, real-time insights that improve decisions and move the needle.
 
-Cloud Engineer (AWS) | Solution Architect | CI/CD Automation & Scalable Apps | AWS Certified
+Highlights: cut processing times by 40% with scalable architectures; lowered operational costs 25% via optimized ETL; improved forecasting accuracy 30% using predictive models; and lifted sales conversion 15% with live BI dashboards.
 
-Cloud & Solutions Architect with 4+ years of experience designing, deploying, and optimizing scalable, secure, and cost‑efficient AWS solutions. Specializing in cloud‑native architectures, real‑time data streaming, infrastructure as code (Terraform), and enterprise governance. Proven track record reducing data latency by 50%, cutting cloud costs by 30%, and leading large‑scale migrations across banking and fintech sectors. Adept at translating complex business requirements into high‑availability designs with 99.9%+ SLA adherence.
+I build with Python, SQL, Terraform, Docker/Kubernetes, AWS Glue and Azure Data Factory, and integrate with SAP ERP. My focus: secure, highly available, cost-efficient systems that are observable, testable, and easy to evolve.
 
-Technical Skills
-
-☁️ Cloud & Infrastructure
-- AWS(EC2, S3, Lambda, ECS)
-- Kubernetes & Docker
-- Terraform & CloudFormation
-- Serverless Architecture
-
-🛠️ DevOps & Automation
-- CI/CD Pipelines
-- GitLab CI/CD & Jenkins
-- Infrastructure as Code
-- Monitoring & Logging
-
-💻 Programming & Scripting
-- Python & .NET
-- Bash/Shell Scripting
-- JavaScript/Node.js
-- SQL & Database Management
-
-
+If your teams need faster pipelines, clearer analytics, and measurable outcomes, let’s talk.
 
 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)

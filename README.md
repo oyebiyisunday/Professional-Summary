@@ -1,11 +1,29 @@
-Results-driven Cloud & Data Engineer (AWS-Certified) with 5+ years designing cloud-native platforms, high-throughput data pipelines, and AI-powered analytics across AWS and Azure. I turn complex, high-volume datasets into reliable, real-time insights that improve decisions and move the needle.
+Results-driven **Cloud & Data Engineer** <br>
+<span style="font-size:14px"> <b>(AWS-Certified | 5+ Yrs Experience)</b> </span>
 
-Highlights: cut processing times by 40% with scalable architectures; lowered operational costs 25% via optimized ETL; improved forecasting accuracy 30% using predictive models; and lifted sales conversion 15% with live BI dashboards.
+---
 
-I build with Python, SQL, Terraform, Docker/Kubernetes, AWS Glue and Azure Data Factory, and integrate with SAP ERP. My focus: secure, highly available, cost-efficient systems that are observable, testable, and easy to evolve.
+I design, build, and optimize **cloud-native platforms**, high-throughput data pipelines, and **AI-powered analytics** on AWS & Azure. I turn complex, high-volume datasets into **reliable, real-time insights** that drive decisions and measurable business outcomes.
 
-If your teams need faster pipelines, clearer analytics, and measurable outcomes, let’s talk.
+---
 
-🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
-- [Personal Website](https://oyebiyi.myloveboxes.com/)
+### 🚀 Highlights
+- ⏱️ **Cut processing times by 40%** with scalable architectures
+- 💸 **Lowered operational costs by 25%** via optimized ETL
+- 📈 **Improved forecasting accuracy by 30%** using predictive models
+- 📊 **Lifted sales conversion by 15%** with live BI dashboards
+
+---
+
+### 🧰 Tech Stack
+**Python** | **SQL** | **Terraform** | **Docker/Kubernetes**<br>
+**AWS Glue** | **Azure Data Factory** | **SAP ERP Integration**  
+*Focus: Secure, highly available, cost-efficient, and observable systems that are testable and easy to evolve.*
+
+---
+
+### 🤝 Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-oyebiyi/)
+- [![Website](https://img.shields.io/badge/Portfolio-oyebiyi.myloveboxes.com-ff69b4?logo=githubpages&logoColor=white)](https://oyebiyi.myloveboxes.com/)
+
+> If your teams need faster pipelines, clearer analytics, and measurable outcomes, **let’s talk!**

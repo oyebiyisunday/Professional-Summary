@@ -16,7 +16,7 @@ I design, build, and optimize **cloud-native platforms**, high-throughput data p
 ---
 
 ### 🧰 Tech Stack
-**Python** | **SQL** | **Terraform** | **React** ** Node.js** |  **Flutter | **Docker/Kubernetes**<br>
+**Python** | **SQL** | **Terraform** | React |  Node.js | Flutter | **Docker/Kubernetes**<br>
 **AWS Glue** | **Azure Data Factory** | **SAP ERP Integration**  
 *Focus: Secure, highly available, cost-efficient, and observable systems that are testable and easy to evolve.*
 

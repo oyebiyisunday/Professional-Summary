@@ -26,4 +26,4 @@ I design, build, and optimize **cloud-native platforms**, high-throughput data p
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-oyebiyi/)
 - [![Website](https://img.shields.io/badge/Portfolio-oyebiyi.myloveboxes.com-ff69b4?logo=githubpages&logoColor=white)](https://oyebiyi.myloveboxes.com/)
 
-> If your teams need faster pipelines, clearer analytics, and measurable outcomes, **let’s talk!**
+> If your teams need faster pipelines, clearer analytics, full-stack development, and measurable outcomes, **let’s talk!**

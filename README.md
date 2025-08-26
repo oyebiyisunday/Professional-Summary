@@ -1,41 +1,42 @@
-# Sunday Oyebiyi — Frontend · Data · Cloud Engineer
+## 👋 Hi, I’m Sunday Oyebiyi  
 
-**AWS-Certified | 5+ Years Experience**
-
-I design, build, and optimize cloud-native platforms, data pipelines, and analytics dashboards that transform complex datasets into real-time insights.
-
-By combining frontend engineering, data pipelines, and cloud infrastructure, I deliver scalable, secure, and cost-efficient systems enabling AI- and ML-powered solutions. I specialize in sourcing, cleaning, and preparing data for advanced analytics — ensuring high-quality, trustworthy datasets that fuel predictive models, intelligent dashboards, and automated decision-making.
+💻 **Cloud & Data Engineer** passionate about building scalable data platforms, cloud-native solutions, and automation-driven infrastructure.  
 
 ---
 
-## 🚀 Impact Highlights
-
-- ⏱️ **Reduced processing times by 40%** with scalable cloud architectures
-- 💸 **Lowered operational costs by 25%** through optimized ETL pipelines
-- 📈 **Improved forecasting accuracy by 30%** using AI-ready datasets and predictive models
-- 📊 **Increased sales conversion by 15%** with live BI dashboards and data-driven UI
-- 🤖 **Enabled AI/ML adoption** by sourcing, cleaning, and preparing high-quality datasets for training and inference
-- 🔐 **Strengthened data security & compliance** with role-based access, encryption, and cloud IAM policies
-- 🌍 **Integrated cross-platform APIs** (ERP, SaaS, and 3rd-party tools) to unify data flows across business units
-- 📉 **Reduced data errors by 35%** via automated quality checks and monitoring pipelines
-- ⚡ **Accelerated feature delivery** by building reusable UI/data components, cutting development time by 20%
-- ☁️ **Improved reliability & uptime** with containerized, autoscaling deployments (Docker/Kubernetes)
+## 🚀 About Me  
+- 🌐 Experienced in **AWS | GCP | Azure** for cloud infrastructure & data services  
+- 📊 Skilled in **Data Warehousing, ETL Pipelines, and Real-Time Analytics**  
+- 🛠️ Hands-on with **Terraform, Python, SQL, and Docker**  
+- ⚡ Enthusiastic about **DevOps, CI/CD pipelines, and Infrastructure as Code (IaC)**  
+- 🧩 I enjoy solving complex data problems and optimizing cloud workloads  
 
 ---
 
-## 🧰 Tech Stack
-
-- **Frontend & Visualization:** React · TypeScript · D3.js · Node.js · Flutter
-- **Data & Cloud Engineering:** Python · SQL · Terraform · Docker/Kubernetes · AWS Glue · Azure Data Factory
-- **AI/ML Enablement:** Data sourcing · Cleaning & feature engineering · Pipeline orchestration for ML workloads
-- **Enterprise Integration:** API Development & Integration · SAP ERP Integration
+## 🛠️ Tech Stack  
+**Languages:** Python, SQL, JavaScript  
+**Cloud Platforms:** AWS, GCP, Azure  
+**Infrastructure:** Terraform, Docker, Kubernetes  
+**Data Tools:** BigQuery, Snowflake, Redshift, Airflow  
+**Other:** GitHub Actions, React, Linux  
 
 ---
 
-**Focus:** Secure, observable, and testable systems — designed to evolve with modern AI-driven business needs.
+## 📂 Featured Projects  
+- 🔹 [**Real-Time Data Warehouse with Terraform & Python**](#) – Cloud infra + ETL automation  
+- 🔹 [**React Mini Dashboard**](#) – Interactive dashboard for data visualization  
+- 🔹 [**Database Design Management**](#) – End-to-end relational DB modeling & implementation  
+- 🔹 [**System Requirements Documentation**](#) – Software engineering documentation templates  
 
-### 🤝 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-oyebiyi/)
-- [![Website](https://img.shields.io/badge/Portfolio-oyebiyi.myloveboxes.com-ff69b4?logo=githubpages&logoColor=white)](https://oyebiyi.myloveboxes.com/)
+---
 
-> If your teams need faster pipelines, clearer analytics, full-stack development, and measurable outcomes, **let’s talk!**
+
+---
+
+## 🌍 Connect with Me  
+- 🌐 [Portfolio Website](https://img.shields.io/badge/Portfolio-oyebiyi.myloveboxes.com-ff69b4?logo=githubpages&logoColor=white)](https://oyebiyi.myloveboxes.com/)
+- 💼 [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-oyebiyi/)  
+- 🎖️ [Credly Certifications](https://www.credly.com/badges/e3193ae6-069d-4e77-a970-de114760f64d/public_url)  
+- 📧 [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)  
+
+

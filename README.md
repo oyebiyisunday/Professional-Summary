@@ -38,5 +38,3 @@
 - 💼 [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-oyebiyi/)  
 - 🎖️ [Credly Certifications](https://www.credly.com/badges/e3193ae6-069d-4e77-a970-de114760f64d/public_url)  
 - 📧 [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)  
-
-
